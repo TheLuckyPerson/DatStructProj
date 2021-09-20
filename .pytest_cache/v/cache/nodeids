@@ -1,0 +1,9 @@
+[
+  "test_main.py::TestIndexOf::test_index_of_1",
+  "test_main.py::TestIndexOf::test_index_of_2",
+  "test_main.py::TestIndexOf::test_index_of_3",
+  "test_main.py::TestIndexOf::test_index_of_4",
+  "test_main.py::TestSquareRoot::test_square_root_guess_1",
+  "test_main.py::test_index_of",
+  "test_main.py::test_square_root_guess"
+]

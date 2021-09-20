@@ -1,0 +1,4 @@
+{
+  "test_main.py::TestIndexOf::test_index_of_2": true,
+  "test_main.py::TestIndexOf::test_index_of_3": true
+}
